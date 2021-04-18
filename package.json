@@ -1,5 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Miguel Ángel Sánchez Reyes",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -11,5 +13,11 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Miguel Ángel Sánchez Reyes"
+	"description": "A project that does something awesome",
+	"keywords": [
+		"freecodecamp",
+		"nodejs",
+		"javascript"
+	],
+	"license": "MIT"
 }
